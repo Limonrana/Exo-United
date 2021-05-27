@@ -1,0 +1,47 @@
+.site-url {
+    background-color: #5B93D3;
+    border-color: #5B93D3;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 16px;
+}
+.icon-notify {
+    border-radius: 100%;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+/* Firefox */
+input[type=number] {
+    -moz-appearance: textfield;
+}
+
+/*Login Register*/
+.my-btn {
+    text-transform: capitalize;
+    background-color: #33b5f7;
+    color: #ffffff;
+    padding: 10px 26px;
+    font-weight: 400;
+    cursor: pointer;
+    border: none;
+    -moz-border-radius: 999px;
+    -ms-border-radius: 999px;
+    -o-border-radius: 999px;
+    transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    -moz-transition: all 0.3s;
+    -ms-transition: all 0.3s;
+    -o-transition: all 0.3s;
+    font-size: 16px;
+}
+
